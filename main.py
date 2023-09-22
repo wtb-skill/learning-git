@@ -3,3 +3,4 @@ print("Znajdujesz się teraz w trybie edycji tego pliku – wcielisz się teraz 
   Następnie na dole strony wypełnij tytuł commita i potwierdź zapisanie guzikiem “Commit changes”.") 
 
 druga zmiana
+trzecia zmiana
